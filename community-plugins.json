@@ -60394,5 +60394,12 @@
     "author": "Masson17",
     "description": "Sync your vault through your own server, with no lost edits: automatic merges, conflict copies, deleted file recovery, file history and optional end-to-end encryption. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "darkildo/selfsync"
+  },
+  {
+    "id": "obsidian-word-equation",
+    "name": "Word Equation",
+    "author": "QuaziElectro",
+    "description": "Microsoft Word-like visual equation editing with MathML in Obsidian",
+    "repo": "QuaziElectro/obsidian-word-equation"
   }
 ]
